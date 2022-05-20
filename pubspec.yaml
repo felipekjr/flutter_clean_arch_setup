@@ -1,0 +1,20 @@
+name: flutter_clean_arch_setup
+description: A package to create clean architecture structure on flutter
+version: 0.0.1
+homepage: https://github.com/felipekjr/flutter_clean_arch_setup
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+
+flutter:
