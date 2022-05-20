@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.1 20/05/2022
 
-* TODO: Describe initial release.
+* Init project MVP

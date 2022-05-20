@@ -1,6 +1,7 @@
 name: flutter_clean_arch_setup
 description: A package to create clean architecture structure on flutter
 version: 0.0.1
+author: Felipe Rodrigues<felipekjr@gmail.com>
 homepage: https://github.com/felipekjr/flutter_clean_arch_setup
 
 environment:
