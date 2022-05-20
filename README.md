@@ -1,6 +1,6 @@
 # flutter_clen_arch_setup
 This package provides an easy way to generate clean architecture structure
-to yout Flutter project
+to your Flutter project
 
 ## 📚 Guide
 #### 1. Setup
